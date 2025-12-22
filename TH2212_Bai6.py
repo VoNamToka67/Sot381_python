@@ -1,7 +1,7 @@
 n = int(input("Nhap so luong bai hat:"))
-dsbaihat= []
+danhsachbaihat= []
 for i in range(n):
     baihat = (input(f"Bai hat thu {i+1} la:"))
-    dsbaihat.append(baihat)
+    danhsachbaihat.append(baihat)
 print(dsbaihat)
     
