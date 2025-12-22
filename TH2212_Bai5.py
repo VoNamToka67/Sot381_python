@@ -9,7 +9,4 @@ def tinhS(n):
     return S
 n = int(input("Nhap so n:"))
 ketqua = tinhS(n)
-print (ketqua)
-
-    
-    
+print (ketqua)  
