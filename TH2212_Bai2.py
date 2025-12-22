@@ -14,6 +14,7 @@ for i in ds:
         gtnn = b
     if c < gtnn:
         gtnn = c
+print (ds)
 print (f"Gia tri lon nhat la :{gtln}")
 print (f"Gia tri nho nhat la :{gtnn}")
     
